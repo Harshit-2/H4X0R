@@ -1,4 +1,4 @@
-H4XOR -News App
+H4XOR- News App
 
 <img src="https://github.com/Harshit-2/H4X0R/assets/102576901/66914499-07b4-4c30-939e-021cdff5b644" width="350"/>
 
